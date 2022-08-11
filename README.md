@@ -7,7 +7,7 @@ Fang Li @ UIUC
 
 # PRICE:
 
-After training the model many times, I found that in each time of training, there are still the errors between the exact predicted prices and the real prices. The errors fluctuate in range [- 5, + 5]. For avoiding overfitting of the model, in prediction, we choose the weights whose errors are mostly ±2.
+After training the model many times, I found that in each time of training, there are still the errors between the exact predicted prices and the real prices. The errors fluctuate in range [- 5, + 5]. For avoiding overfitting of the model, in prediction, we choose the weights whose errors are mostly ±3.
 
 # TREND:
 
